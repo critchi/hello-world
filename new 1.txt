@@ -1,0 +1,24 @@
+
+
+roguinho@roguinho-PC MINGW64 /d/dev/js-stack-from-scratch/01-hello (master)
+$ yarn start
+yarn run v1.19.0
+$ node .
+hello modafoca
+#FF0000
+Done in 0.67s.
+
+
+git config --global user.email
+8532356+critchi@users.noreply.github.com
+
+
+$ git config --global user.name
+critchi
+
+yarn add color
+
+node .
+index.js file containing console.log('Hello world')
+yarn init
+Install Yarn
